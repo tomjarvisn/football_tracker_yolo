@@ -3,7 +3,7 @@
 This project involves a system for detecting and tracking players, referees, and the ball in football matches using computer vision techniques and deep learning.
 
 ![alt text](output_videos/example_from_output.jpg)
-
+<video controls src="output_videos/example.mp4" title="Title"></video>
 ## Tools Used
 
 - **YOLO (You Only Look Once)**: Used for object detection, including players, referees, and the ball.
