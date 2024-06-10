@@ -55,10 +55,3 @@ This project involves a system for detecting and tracking players, referees, and
 ---
 
 This README provides a clear overview of the project. Be sure to adjust the information based on specific details and results obtained in your project.
-
-Unfortunately, trained models were not uploaded due to their large size.
-<<<<<<< HEAD
-Sorry about that
-=======
-Sorry about that
->>>>>>> 7799427 (103)
